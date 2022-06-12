@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
-    <title>ef4_black_selected</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="ef4_black_selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M6.7501,5.5002 L11.5001,5.5002 L11.5001,3.0002 L3.0001,3.0002 L3.0001,11.5002 L5.5001,11.5002 L5.5001,6.7502 C5.5001,6.0602 6.0601,5.5002 6.7501,5.5002" id="Fill-1" fill="#FFFFFF"></path>
-        <polygon id="Fill-3" fill="#FFFFFF" points="11.5001 7.0002 7.0001 7.0002 7.0001 11.5002 7.0001 13.0002 7.0001 17.5002 17.5001 17.5002 17.5001 7.0002 13.0001 7.0002"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" version="1.1" viewBox="0 0 20 20"><title>ef4_black_selected</title><desc>Created with Sketch.</desc><g id="ef4_black_selected" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Fill-1" fill="#FFF" d="M6.7501,5.5002 L11.5001,5.5002 L11.5001,3.0002 L3.0001,3.0002 L3.0001,11.5002 L5.5001,11.5002 L5.5001,6.7502 C5.5001,6.0602 6.0601,5.5002 6.7501,5.5002"/><polygon id="Fill-3" fill="#FFF" points="11.5 7 7 7 7 11.5 7 13 7 17.5 17.5 17.5 17.5 7 13 7"/></g></svg>
